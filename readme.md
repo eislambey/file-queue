@@ -1,6 +1,6 @@
 ## Queue
 
-Simple filesysetm based queue for PHP applications.
+Simple filesystem based queue for PHP applications.
 
 ## Usage
 
