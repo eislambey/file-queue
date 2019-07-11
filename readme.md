@@ -1,3 +1,5 @@
+# DO NOT USE IN PRODUCTION.
+
 ## Queue
 
 Simple filesystem based queue for PHP applications.
